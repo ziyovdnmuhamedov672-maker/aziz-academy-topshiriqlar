@@ -4,22 +4,22 @@
 
 ## 📊 Umumiy progress
 
-`█░░░░░░░░░░░░░░░░░░░` **4%**  (8/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **4%**  (7/179 mavzu)
 
-- ⭐ Jami ball: **10294**
-- 📤 GitHubga yuborilgan topshiriqlar: **56**
+- ⭐ Jami ball: **10299**
+- 📤 GitHubga yuborilgan topshiriqlar: **57**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
 **MODUL 1 — Asoslar** → **input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish**
 
-➡️ Keyingi mavzu: *Arifmetik operatorlar — + - * / // % ** va prioritet*
+➡️ Keyingi mavzu: *O'rnatish va muhit — Python, interpreter, IDE sozlash*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
 - ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
-- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
 - ✅ Birinchi dastur ⭐ — print() va kommentlar
 - ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
 - ✅ Sonlar: int va float — butun va kasr sonlar
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█████░░░░░` 53% | 8/15 |
+| 1 | 🔸 Asoslar | `█████░░░░░` 47% | 7/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
