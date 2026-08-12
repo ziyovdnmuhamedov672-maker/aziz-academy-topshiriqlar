@@ -1,0 +1,5 @@
+a, b = input().split()
+a = int(a)
+b = int(b)
+print("Quot:", a // b)
+print("Rem:", a % b)
