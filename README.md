@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`█░░░░░░░░░░░░░░░░░░░` **6%**  (10/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **6%**  (11/179 mavzu)
 
-- ⭐ Jami ball: **12070**
-- 📤 GitHubga yuborilgan topshiriqlar: **103**
+- ⭐ Jami ball: **13007**
+- 📤 GitHubga yuborilgan topshiriqlar: **104**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Mantiqiy operatorlar — and, or, not**
+**MODUL 1 — Asoslar** → **Solishtirish operatorlari — == != > < >= <=**
 
-➡️ Keyingi mavzu: *Solishtirish operatorlari — == != > < >= <=*
+➡️ Keyingi mavzu: *Type casting ⭐ — type(), int(), float(), str(), bool()*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -27,8 +27,8 @@
 - ✅ Bool va mantiq — True/False, mantiqiy ifodalar
 - ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
 - ✅ Arifmetik operatorlar — + - * / // % ** va prioritet
-- ✅ Mantiqiy operatorlar — and, or, not  ← yetgan joyingiz
-- ⬜ Solishtirish operatorlari — == != > < >= <=
+- ✅ Mantiqiy operatorlar — and, or, not
+- ✅ Solishtirish operatorlari — == != > < >= <=  ← yetgan joyingiz
 - ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
 - ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
 - ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `███████░░░` 67% | 10/15 |
+| 1 | 🔸 Asoslar | `███████░░░` 73% | 11/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-18 08:19</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-19 10:58</sub>
