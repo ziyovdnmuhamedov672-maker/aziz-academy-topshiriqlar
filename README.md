@@ -6,27 +6,27 @@
 
 `██░░░░░░░░░░░░░░░░░░` **10%**  (18/179 mavzu)
 
-- ⭐ Jami ball: **28870**
-- 📤 GitHubga yuborilgan topshiriqlar: **276**
+- ⭐ Jami ball: **29233**
+- 📤 GitHubga yuborilgan topshiriqlar: **277**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 2 — Stringlar va Formatlash** → **Boshqa formatlash — .format() va % (eski usullar)**
+**MODUL 2 — Stringlar va Formatlash** → **Boshqa formatlash - .format() va % (eski usullar)**
 
-➡️ Keyingi mavzu: *Escape belgilar — \n, \t, \\, \"*
+➡️ Keyingi mavzu: *Escape belgilar - \n, \t, \\, \"*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Index va slicing ⭐ — s[0], s[1:4], s[::-1]
-- ✅ String metodlari — 1: lower, upper, strip, title
-- ✅ String metodlari — 2: replace, find, count, split, join
-- ✅ in operatori — substring izlash, mavjudlikni tekshirish
-- ✅ f-string ⭐ — zamonaviy formatlash (f"{ism}")
-- ✅ Boshqa formatlash — .format() va % (eski usullar)  ← yetgan joyingiz
-- ⬜ Escape belgilar — \n, \t, \\, \"
-- ⬜ Ko'p qatorli stringlar — """...""", docstring
-- ⬜ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi
+- ✅ Index va slicing ⭐ - s[0], s[1:4], s[::-1]
+- ✅ String metodlari - 1: lower, upper, strip, title
+- ✅ String metodlari - 2: replace, find, count, split, join
+- ✅ in operatori - substring izlash, mavjudlikni tekshirish
+- ✅ f-string ⭐ - zamonaviy formatlash (f"{ism}")
+- ✅ Boshqa formatlash - .format() va % (eski usullar)  ← yetgan joyingiz
+- ⬜ Escape belgilar - \n, \t, \\, \"
+- ⬜ Ko'p qatorli stringlar - """...""", docstring
+- ⬜ 🛠 Amaliy: Matn tahlili - so'z sanash, harf statistikasi
 - ⬜ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)
 
 </details>
@@ -58,4 +58,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-09 10:40</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-19 10:13</sub>
